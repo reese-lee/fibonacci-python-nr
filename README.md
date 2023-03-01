@@ -1,4 +1,4 @@
-This repo holds a simple Python script that has been instrumented as a background job with the New Relic Python APM agent. 
+# Sample Python fibonacci app that's been instrumented with the New Relic APM agent. 
 
 To run:
 
